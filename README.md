@@ -1,5 +1,4 @@
-# cv_sandbox
-# Empty GCP compute resources
+# Empty GCP compute resources creation
  ##### This repo is created for the following consul and vault installation
 
 ------------
